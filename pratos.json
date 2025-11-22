@@ -1,0 +1,346 @@
+[
+  {
+    "nome": "Picanha na Chapa",
+    "descricao": "Picanha grelhada na chapa com alho e sal grosso, acompanhada de farofa e vinagrete",
+    "categoria": "carnes_vermelhas",
+    "ingredientes": ["picanha", "alho", "sal grosso", "azeite", "farofa", "vinagrete"],
+    "intensidade": "forte",
+    "harmonizacao_sugerida": ["vinhos tintos encorpados", "malbec", "cabernet sauvignon", "syrah"]
+  },
+  {
+    "nome": "Bife à Parmegiana",
+    "descricao": "Bife empanado com molho de tomate e queijo derretido, acompanhado de arroz e batata frita",
+    "categoria": "carnes_vermelhas",
+    "ingredientes": ["contrafilé", "farinha de rosca", "molho de tomate", "queijo mussarela", "arroz", "batata"],
+    "intensidade": "forte",
+    "harmonizacao_sugerida": ["merlot", "cabernet sauvignon", "vinhos tintos médios"]
+  },
+  {
+    "nome": "Costela no Bafo",
+    "descricao": "Costela bovina assada lentamente, temperada com ervas e alho",
+    "categoria": "carnes_vermelhas",
+    "ingredientes": ["costela bovina", "alho", "ervas", "sal", "pimenta"],
+    "intensidade": "forte",
+    "harmonizacao_sugerida": ["malbec", "cabernet sauvignon", "vinhos tintos encorpados"]
+  },
+  {
+    "nome": "Frango à Passarinho",
+    "descricao": "Pedaços de frango fritos com alho e temperos, crocantes por fora e suculentos por dentro",
+    "categoria": "aves",
+    "ingredientes": ["frango", "alho", "limão", "farinha", "temperos"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["chardonnay", "sauvignon blanc", "pinot noir"]
+  },
+  {
+    "nome": "Peito de Frango Grelhado",
+    "descricao": "Peito de frango grelhado com ervas finas e azeite, acompanhado de legumes",
+    "categoria": "aves",
+    "ingredientes": ["peito de frango", "ervas", "azeite", "legumes", "sal"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["chardonnay", "sauvignon blanc", "vinhos brancos leves"]
+  },
+  {
+    "nome": "Pato à Laranja",
+    "descricao": "Pato assado com molho agridoce de laranja e especiarias",
+    "categoria": "aves",
+    "ingredientes": ["pato", "laranja", "açúcar", "vinagre", "especiarias"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["pinot noir", "vinhos rosé", "chardonnay"]
+  },
+  {
+    "nome": "Salmão Grelhado",
+    "descricao": "Salmão grelhado com molho de maracujá e arroz de açafrão",
+    "categoria": "peixes",
+    "ingredientes": ["salmão", "maracujá", "açafrão", "arroz", "limão"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["sauvignon blanc", "pinot noir", "vinhos brancos frescos"]
+  },
+  {
+    "nome": "Bacalhau à Gomes de Sá",
+    "descricao": "Bacalhau desfiado com batatas, cebolas, azeitonas e ovos cozidos",
+    "categoria": "peixes",
+    "ingredientes": ["bacalhau", "batatas", "cebolas", "azeitonas", "ovos", "azeite"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["vinho verde", "albariño", "sauvignon blanc"]
+  },
+  {
+    "nome": "Moqueca de Peixe",
+    "descricao": "Peixe cozido em panelão com leite de coco, azeite de dendê e pimentões",
+    "categoria": "peixes",
+    "ingredientes": ["peixe", "leite de coco", "dendê", "pimentões", "cebola", "tomate"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["vinhos brancos aromáticos", "viognier", "chardonnay"]
+  },
+  {
+    "nome": "Camarão à Grega",
+    "descricao": "Camarões refogados com alho, cebola, tomate e ervas, servido com arroz",
+    "categoria": "frutos_mar",
+    "ingredientes": ["camarão", "alho", "cebola", "tomate", "ervas", "arroz"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["sauvignon blanc", "pinot grigio", "vinhos brancos secos"]
+  },
+  {
+    "nome": "Lagosta Thermidor",
+    "descricao": "Lagosta gratinada com molho cremoso de queijo e ervas",
+    "categoria": "frutos_mar",
+    "ingredientes": ["lagosta", "creme de leite", "queijo", "ervas", "conhaque"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["chardonnay", "vinhos brancos encorpados", "espumantes brut"]
+  },
+  {
+    "nome": "Polvo à Galega",
+    "descricao": "Polvo cozido com azeite, sal grosso e páprica",
+    "categoria": "frutos_mar",
+    "ingredientes": ["polvo", "azeite", "sal grosso", "páprica", "batatas"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["albariño", "vinho verde", "sauvignon blanc"]
+  },
+  {
+    "nome": "Lasanha à Bolonhesa",
+    "descricao": "Lasanha tradicional com molho bolonhesa, queijos e molho branco",
+    "categoria": "massas",
+    "ingredientes": ["carne moída", "molho de tomate", "massa de lasanha", "queijo mussarela", "queijo parmesão"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["chardonnay", "merlot", "vinhos tintos médios"]
+  },
+  {
+    "nome": "Espaguete Carbonara",
+    "descricao": "Espaguete com molho cremoso de ovos, queijo parmesão e bacon",
+    "categoria": "massas",
+    "ingredientes": ["espaguete", "ovos", "queijo parmesão", "bacon", "pimenta preta"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["chardonnay", "pinot grigio", "vinhos brancos cremosos"]
+  },
+  {
+    "nome": "Nhoque à Bolonhesa",
+    "descricao": "Nhoque de batata com molho de carne moída e queijo parmesão",
+    "categoria": "massas",
+    "ingredientes": ["batata", "farinha", "carne moída", "molho de tomate", "queijo parmesão"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["merlot", "vinhos tintos leves", "chardonnay"]
+  },
+  {
+    "nome": "Risoto de Cogumelos",
+    "descricao": "Risoto cremoso com cogumelos frescos, queijo parmesão e vinho branco",
+    "categoria": "vegetariano",
+    "ingredientes": ["arroz arbório", "cogumelos", "parmesão", "vinho branco", "cebola"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["pinot noir", "chardonnay", "vinhos brancos leves"]
+  },
+  {
+    "nome": "Berinjela à Parmegiana",
+    "descricao": "Berinjela empanada com molho de tomate e queijo derretido",
+    "categoria": "vegetariano",
+    "ingredientes": ["berinjela", "molho de tomate", "queijo mussarela", "farinha de rosca"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["pinot noir", "vinhos tintos leves", "chardonnay"]
+  },
+  {
+    "nome": "Salada Caesar",
+    "descricao": "Salada com alface romana, croutons, queijo parmesão e molho caesar",
+    "categoria": "vegetariano",
+    "ingredientes": ["alface romana", "croutons", "queijo parmesão", "molho caesar"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["sauvignon blanc", "pinot grigio", "vinhos brancos secos"]
+  },
+  {
+    "nome": "Tabule",
+    "descricao": "Salada árabe com trigo, tomate, pepino, hortelã e limão",
+    "categoria": "vegetariano",
+    "ingredientes": ["trigo para quibe", "tomate", "pepino", "hortelã", "limão", "azeite"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["vinho verde", "sauvignon blanc", "vinhos brancos frescos"]
+  },
+  {
+    "nome": "Fondue de Queijo",
+    "descricao": "Queijo derretido com vinho branco e especiarias, servido com pão",
+    "categoria": "queijos",
+    "ingredientes": ["queijo emmental", "queijo gruyère", "vinho branco", "pão", "alho"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["sauvignon blanc", "chardonnay", "vinhos brancos secos"]
+  },
+  {
+    "nome": "Tábua de Queijos",
+    "descricao": "Seleção de queijos variados com frutas secas e castanhas",
+    "categoria": "queijos",
+    "ingredientes": ["queijos variados", "frutas secas", "castanhas", "geleias"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["pinot noir", "chardonnay", "vinhos tintos suaves"]
+  },
+  {
+    "nome": "Pizza Margherita",
+    "descricao": "Pizza com molho de tomate, queijo mussarela e manjericão fresco",
+    "categoria": "queijos",
+    "ingredientes": ["massa de pizza", "molho de tomate", "queijo mussarela", "manjericão"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["chardonnay", "pinot noir", "vinhos tintos leves"]
+  },
+  {
+    "nome": "Tiramisu",
+    "descricao": "Sobremesa italiana com camadas de biscoito champanhe, café e creme de mascarpone",
+    "categoria": "sobremesas",
+    "ingredientes": ["biscoito champanhe", "café", "queijo mascarpone", "ovos", "açúcar", "cacau"],
+    "intensidade": "doce",
+    "harmonizacao_sugerida": ["vinho do porto", "moscatel", "vinhos sobremesa"]
+  },
+  {
+    "nome": "Mousse de Chocolate",
+    "descricao": "Mousse cremosa de chocolate meio amargo com chantilly",
+    "categoria": "sobremesas",
+    "ingredientes": ["chocolate meio amargo", "creme de leite", "açúcar", "ovos"],
+    "intensidade": "doce",
+    "harmonizacao_sugerida": ["vinho do porto", "licoroso", "moscatel"]
+  },
+  {
+    "nome": "Pudim de Leite",
+    "descricao": "Pudim de leite condensado com calda de caramelo",
+    "categoria": "sobremesas",
+    "ingredientes": ["leite condensado", "leite", "ovos", "açúcar"],
+    "intensidade": "doce",
+    "harmonizacao_sugerida": ["vinho do porto", "sauternes", "vinhos sobremesa"]
+  },
+  {
+    "nome": "Torta de Limão",
+    "descricao": "Torta com base de biscoito, recheio de limão e merengue",
+    "categoria": "sobremesas",
+    "ingredientes": ["biscoito", "limão", "leite condensado", "claras", "açúcar"],
+    "intensidade": "doce",
+    "harmonizacao_sugerida": ["moscato", "vinhos brancos doces", "espumantes demi-sec"]
+  },
+  {
+    "nome": "Churrasco Misto",
+    "descricao": "Seleção de carnes grelhadas incluindo picanha, linguiça, frango e coração",
+    "categoria": "carnes_vermelhas",
+    "ingredientes": ["picanha", "linguiça", "frango", "coração", "farofa", "vinagrete"],
+    "intensidade": "forte",
+    "harmonizacao_sugerida": ["malbec", "cabernet sauvignon", "vinhos tintos encorpados"]
+  },
+  {
+    "nome": "Feijoada Completa",
+    "descricao": "Prato tradicional brasileiro com feijão preto e variedade de carnes",
+    "categoria": "carnes_vermelhas",
+    "ingredientes": ["feijão preto", "carne seca", "linguiça", "costela", "lombo", "couve"],
+    "intensidade": "forte",
+    "harmonizacao_sugerida": ["caipirinha", "cerveja", "vinhos tintos encorpados"]
+  },
+  {
+    "nome": "Bobó de Camarão",
+    "descricao": "Camarão no creme de mandioca com leite de coco e azeite de dendê",
+    "categoria": "frutos_mar",
+    "ingredientes": ["camarão", "mandioca", "leite de coco", "dendê", "cebola", "tomate"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["vinhos brancos aromáticos", "viognier", "chardonnay"]
+  },
+  {
+    "nome": "Quiche Lorraine",
+    "descricao": "Torta salgada com bacon, queijo e creme de leite",
+    "categoria": "queijos",
+    "ingredientes": ["massa folhada", "bacon", "queijo", "creme de leite", "ovos"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["chardonnay", "sauvignon blanc", "vinhos brancos cremosos"]
+  },
+  {
+    "nome": "Carpaccio de Filé Mignon",
+    "descricao": "Finas fatias de filé mignon cru com rúcula e parmesão",
+    "categoria": "carnes_vermelhas",
+    "ingredientes": ["filé mignon", "rúcula", "queijo parmesão", "azeite", "limão"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["pinot noir", "vinhos tintos leves", "chardonnay"]
+  },
+  {
+    "nome": "Ceviche de Peixe",
+    "descricao": "Peixe branco marinado em limão com cebola roxa e pimenta",
+    "categoria": "peixes",
+    "ingredientes": ["peixe branco", "limão", "cebola roxa", "pimenta", "coentro"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["sauvignon blanc", "pinot grigio", "vinhos brancos ácidos"]
+  },
+  {
+    "nome": "Ratatouille",
+    "descricao": "Legumes assados como berinjela, abobrinha, pimentões e tomate",
+    "categoria": "vegetariano",
+    "ingredientes": ["berinjela", "abobrinha", "pimentões", "tomate", "cebola", "alho"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["pinot noir", "vinhos rosé", "sauvignon blanc"]
+  },
+  {
+    "nome": "Strogonoff de Carne",
+    "descricao": "Carne bovina em cubos com molho cremoso de mostarda e champignon",
+    "categoria": "carnes_vermelhas",
+    "ingredientes": ["carne bovina", "creme de leite", "mostarda", "champignon", "cebola"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["merlot", "pinot noir", "vinhos tintos médios"]
+  },
+  {
+    "nome": "Frango com Quiabo",
+    "descricao": "Frango ensopado com quiabo e temperos caseiros",
+    "categoria": "aves",
+    "ingredientes": ["frango", "quiabo", "tomate", "cebola", "alho", "temperos"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["chardonnay", "vinhos brancos médios", "pinot noir"]
+  },
+  {
+    "nome": "Bacalhau à Brás",
+    "descricao": "Bacalhau desfiado com batata palha, ovos e azeitonas",
+    "categoria": "peixes",
+    "ingredientes": ["bacalhau", "batata palha", "ovos", "azeitonas", "cebola", "salsa"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["vinho verde", "albariño", "sauvignon blanc"]
+  },
+  {
+    "nome": "Espaguete ao Pesto",
+    "descricao": "Espaguete com molho pesto de manjericão, alho, pinoli e queijo parmesão",
+    "categoria": "massas",
+    "ingredientes": ["espaguete", "manjericão", "alho", "pinoli", "queijo parmesão", "azeite"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["sauvignon blanc", "pinot grigio", "vinhos brancos herbáceos"]
+  },
+  {
+    "nome": "Risotto de Frutos do Mar",
+    "descricao": "Risotto cremoso com mistura de frutos do mar e açafrão",
+    "categoria": "frutos_mar",
+    "ingredientes": ["arroz arbório", "camarão", "lula", "mexilhões", "açafrão", "vinho branco"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["viognier", "chardonnay", "vinhos brancos encorpados"]
+  },
+  {
+    "nome": "Tacos Mexicanos",
+    "descricao": "Tortilhas de milho com carne moída temperada, alface, queijo e guacamole",
+    "categoria": "carnes_vermelhas",
+    "ingredientes": ["tortilhas", "carne moída", "alface", "queijo", "guacamole", "tomate"],
+    "intensidade": "media",
+    "harmonizacao_sugerida": ["cerveja", "margarita", "vinhos tintos frutados"]
+  },
+  {
+    "nome": "Sushi Variado",
+    "descricao": "Seleção de sushi incluindo nigiri, sashimi e rolls variados",
+    "categoria": "peixes",
+    "ingredientes": ["arroz", "peixe cru", "alga", "pepino", "abacate", "gengibre"],
+    "intensidade": "leve",
+    "harmonizacao_sugerida": ["sake", "vinho verde", "sauvignon blanc"]
+  },
+  {
+    "nome": "Hambúrguer Gourmet",
+    "descricao": "Hambúrguer artesanal com queijo, bacon, alface, tomate e molho especial",
+    "categoria": "carnes_vermelhas",
+    "ingredientes": ["carne bovina", "queijo", "bacon", "alface", "tomate", "pão"],
+    "intensidade": "forte",
+    "harmonizacao_sugerida": ["cerveja", "zinandel", "vinhos tintos frutados"]
+  },
+  {
+    "nome": "Torta de Maçã",
+    "descricao": "Torta doce com recheio de maçã e canela, massa crocante",
+    "categoria": "sobremesas",
+    "ingredientes": ["maçã", "canela", "açúcar", "farinha", "manteiga", "ovos"],
+    "intensidade": "doce",
+    "harmonizacao_sugerida": ["vinho do porto", "moscatel", "vinhos sobremesa"]
+  },
+  {
+    "nome": "Cheesecake de Frutas Vermelhas",
+    "descricao": "Cheesecake cremoso com calda de frutas vermelhas",
+    "categoria": "sobremesas",
+    "ingredientes": ["cream cheese", "biscoito", "frutas vermelhas", "açúcar", "creme de leite"],
+    "intensidade": "doce",
+    "harmonizacao_sugerida": ["moscato", "vinhos brancos doces", "espumantes demi-sec"]
+  }
+]
