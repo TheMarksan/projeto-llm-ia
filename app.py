@@ -9,7 +9,7 @@ from collections import Counter
 try:
     api_key = st.secrets["GEMINI_API_KEY"]
 except (st.errors.StreamlitSecretNotFoundError, KeyError):
-    api_key = "AIzaSyDDNFG3dhpyVlIgMTvd43DmEodrVQtYUcY"
+    api_key = "sua_chave"
     st.warning("⚠️ Usando chave de API em modo desenvolvimento")
 
 genai.configure(api_key=api_key)
